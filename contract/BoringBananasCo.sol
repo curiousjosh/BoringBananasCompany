@@ -2091,8 +2091,7 @@ abstract contract Ownable is Context {
 // JUI - @mz09art
 // BERK - @berkozdemir
 
-pragma solidity ^0.7.0;
-pragma abicoder v2;
+pragma solidity ^0.8.0;
 
 contract BoringBananasCo is ERC721, Ownable {
     
